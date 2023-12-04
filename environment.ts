@@ -1,0 +1,1 @@
+export const urlDB = process.env.MONGODB_CNN || 'mongodb://localhost:27017/colas';
